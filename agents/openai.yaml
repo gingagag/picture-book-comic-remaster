@@ -1,0 +1,7 @@
+interface:
+  display_name: "绘本漫画重绘"
+  short_description: "拆格重绘、修正，并生成黑字拼页和竖版漫画长图"
+  default_prompt: "Use $picture-book-comic-remaster to turn the uploaded picture-book page into corrected text-free panels, a black-text optimized grid page, and a vertical comic long image."
+
+policy:
+  allow_implicit_invocation: true
